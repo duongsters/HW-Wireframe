@@ -26,4 +26,4 @@ In this assignment, I built backbone/barebone html file that includes a css file
 
 
 ## Author Links:
-[GitHub] (https://github.com/duongsters)
+[GitHub](https://github.com/duongsters)
